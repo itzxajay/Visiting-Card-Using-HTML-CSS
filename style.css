@@ -1,0 +1,45 @@
+.front{
+    margin-top: 30px;
+    margin-left: 30px;
+    background-color: whitesmoke;
+    height: 200px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 5px;
+    border-radius: 5px;
+    text-align: center;
+}
+.back{
+    margin-top: 30px;
+    margin-left: 30px;
+    background-color: azure;
+    height: 200px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 5px;
+    
+
+}
+.svg-back{
+        margin-top: 10px;
+        margin-left: 100px;
+        border-radius: 50%; 
+        height: 50px;
+}
+
+.center {
+    text-align: center;
+    display: block;
+    margin: auto;
+    width: 70%;
+  }
+  .footer{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+    font-size: small;
+  }
+
+  .back:hover{
+    background-color: whitesmoke;
+}
